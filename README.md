@@ -1,7 +1,3 @@
-# risk-assessment-mini-project
-Beginner-level risk assessment project demonstrating asset identification, threat analysis, and vulnerability evaluation.
-
-
 # Mini Risk Assessment Project
 
 This project demonstrates foundational risk assessment skills based on asset identification, threats, and vulnerabilities.
